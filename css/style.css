@@ -1,0 +1,100 @@
+body{
+    color: #3B3B3B;
+    font-family: 'Open Sans', sans-serif;
+}
+.navbar{
+    background:#FFFBF0
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #3B3B3B;
+    font-weight: bold;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #FABE4C;
+}
+h1, h2 {
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    color: #FABE4C;
+    font-size: 85px;
+    line-height: 80px;
+    
+}
+h2{
+    color: #363958;
+    font-size: 48px;
+}
+h3{
+    color: #FABE4C;
+    font-size: 30px;
+    font-weight: 700;
+}
+h4 {
+    font-weight: 700;
+}
+h5{
+    font-weight: 700;
+}
+p{
+    color: #363958;
+}
+button i{
+    padding-right: 10px;
+}
+.banner {
+    background-color: #FFFBF0;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+.header-color{
+    background-color: #FFFBF0;
+}
+.font-color{
+    color: #363958;
+}
+.img-style{
+    background-color: #F1F1F1;
+    width: 250px;
+    height: 300px;
+}
+.img-background{
+    background-color: white;
+}
+.img-background img{
+    background-color: #F1F1F1;
+}
+.penguin-card{
+    border: 0;
+}
+.penguin-card-footer{
+    background-color: white;
+    border: 0;
+}
+.logo-image img{
+    width: 80px;
+}
+
+.border-radius-10 {
+    border-radius: 10px
+}
+
+.pf-button{
+    background-color: #96B032;
+    border:none;
+    padding: 12px 25px;
+    text-transform: uppercase;
+}
+.pf-button:hover{
+    background-color: #FABE4C;
+}
+.about-section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#contact{
+    background-color: #FFFBF0;
+}
+.footer-color{
+    background-color: #FFFBF0;
+}
